@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/interactive-bar-chart-react/static/css/main.ba458c72.chunk.css",
+    "main.js": "/interactive-bar-chart-react/static/js/main.d94eceda.chunk.js",
+    "main.js.map": "/interactive-bar-chart-react/static/js/main.d94eceda.chunk.js.map",
+    "runtime-main.js": "/interactive-bar-chart-react/static/js/runtime-main.a9d14b7a.js",
+    "runtime-main.js.map": "/interactive-bar-chart-react/static/js/runtime-main.a9d14b7a.js.map",
+    "static/js/2.11735e26.chunk.js": "/interactive-bar-chart-react/static/js/2.11735e26.chunk.js",
+    "static/js/2.11735e26.chunk.js.map": "/interactive-bar-chart-react/static/js/2.11735e26.chunk.js.map",
+    "index.html": "/interactive-bar-chart-react/index.html",
+    "precache-manifest.4e421631f226dac37d087777a3bfdd69.js": "/interactive-bar-chart-react/precache-manifest.4e421631f226dac37d087777a3bfdd69.js",
+    "service-worker.js": "/interactive-bar-chart-react/service-worker.js",
+    "static/css/main.ba458c72.chunk.css.map": "/interactive-bar-chart-react/static/css/main.ba458c72.chunk.css.map",
+    "static/js/2.11735e26.chunk.js.LICENSE.txt": "/interactive-bar-chart-react/static/js/2.11735e26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9d14b7a.js",
+    "static/js/2.11735e26.chunk.js",
+    "static/css/main.ba458c72.chunk.css",
+    "static/js/main.d94eceda.chunk.js"
+  ]
+}
