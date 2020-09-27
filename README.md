@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> interactive-bar-chart-react
+
+Interactive Bar Chart (React, D3 JS)
+
+# Demo Link
+[Demo Here](https://ayarhlaine.github.io/interactive-bar-chart-react)
 
 ## Available Scripts
 
